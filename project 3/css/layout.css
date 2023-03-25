@@ -1,0 +1,170 @@
+body{
+	background-color:#FFFAF0;
+}
+
+.bgcolor{
+	background-color:#FFFAF0;
+}
+
+.bgcolor2{
+	background-color:#FFFAF0;
+}
+
+.bgcolor3{
+	background-color:#FFFFFF;
+}
+
+.bgcolor4{
+	background-color:#FFFAF0;
+}
+
+.bgcolor5{
+	background-color:#FFFAF0;
+}
+
+.bgcolor6{
+	background-color:#FFFAF0;
+}
+
+.logo{
+	width:250px;
+}
+
+.logo-bottom{
+	width:150px;
+}
+
+.footer-link{
+	color:#B22222;
+}
+
+.footer-link:hover{
+	text-decoration:underline;
+	color:#B22222;
+	font-weight: 500;
+}
+
+.list-group-item{
+	background-color:#E6CE93;
+	border-color:#000000;
+}
+
+p{
+	font-size:16px;
+	font-family: 'Manrope', sans-serif;
+	font-weight:300;
+}
+
+h1{
+	font-size:48px;
+	font-family: 'DM Sans', sans-serif;
+	color: #B22222;
+}
+
+h2{
+	font-size:16px;
+	font-family: 'Manrope', sans-serif;
+	color:#708090;
+	font-weight:300;
+}
+
+h3{
+	font-size:24px;
+	font-family: 'Manrope', sans-serif;
+	color:#708090;
+	font-weight:300;
+}
+
+h4{
+	font-size:35px;
+	font-family: 'DM Sans', sans-serif;
+	color:#D1F3FC;
+}
+
+h5{
+	font-size:17px;
+	font-family: 'Manrope', sans-serif;
+	color:#D8D8D8;
+	font-weight:300;
+}
+
+.first-paragraph{
+	font-weight:500;
+	font-weight:bold;
+}
+
+.special-link{
+	color:#FF69B4;
+	text-decoration:none;
+}
+
+.special-link:hover{
+	text-decoration:underline;
+	color:#FF69B4;
+	font-weight:bold;
+	font-weight: 500;
+}
+
+.other-link{
+	color:#FF69B4;
+	text-decoration:none;
+	font-size:13px;
+}
+
+.other-link:hover{
+	text-decoration:underline;
+	color:#FF69B4;
+	font-weight: 500;
+}
+
+.bottom-link{
+	color:#FF69B4;
+	text-decoration:none;
+	font-size:15px;
+}
+
+.bottom-link:hover{
+	text-decoration:underline;
+	color:#FF69B4;
+	font-weight: 500;
+}
+
+.names{
+	font-weight: 500;
+	font-weight:bold;
+	color:#A0522D;
+}
+
+.quotes{
+	font-style:italic;
+}
+
+.pquote{
+	font-size:27px;
+	color:#B22222;
+	font-style:italic;
+	border-top:1px solid #B22222;
+	border-bottom:1px solid #B22222;
+	font-weight:500;
+}
+
+.caption{
+	font-size:12px;
+	color:#708090;
+	font-family: 'Manrope', sans-serif;
+}
+
+.bg-light{
+	background-color:#FF69B4 !important;
+}
+
+.navbarnav .navlink{
+	color:#000000;
+}
+
+.jumbotron{
+	background-color:#CD5C5C;
+	background-image:url('../images/tech-planet.jpeg');
+	background-position:0px -100px;
+	background-size:cover;
+}
