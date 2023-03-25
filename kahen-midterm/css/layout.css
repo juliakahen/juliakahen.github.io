@@ -1,0 +1,122 @@
+body{
+	background-image:url('../images/body-background.png');
+}
+
+.bgcolor{
+	background-image:url('../images/navbar-background.jpg');
+	height:50px;
+}
+
+.container{
+	background-color:#FFFFFF;
+}
+
+h2{
+	font-family: 'Arvo', serif;
+	font-weight:700;
+	font-size:80px;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+.logo{
+	height: 35px;
+}
+
+.subhead{
+	font-size:29px;
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+.button{
+	background-color:#7DD33A;
+	font-size:25px;
+	color:#FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+.nav-link{
+	font-family: 'Roboto', sans-serif;
+	font-weight:500;
+	font-size:18px;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+.jumbotron{
+	background-image:url('../images/backtothefuture.jpg');
+	background-size:cover;
+	background-position:0px -120px;
+}
+
+.caption{
+	background-color:#000000;
+	color:#FFFFFF;
+	font-size:24px;
+	font-family: 'Arvo', serif;
+	font-weight:400;
+}
+
+.side-title{
+	font-size:26px;
+	font-family: 'Roboto', sans-serif;
+	font-weight:500;
+}
+
+.bottom-caption{
+	font-size:20px;
+	font-family: 'Roboto', sans-serif;
+	font-weight:500;
+}
+
+.copyright{
+	background-color:#D5DBDB;
+	color:#7F8C8D;
+	font-size:20px;
+	border-top:1px solid #616A6B;
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+}
+
+.special-link{
+	color:#616A6B;
+}
+
+.special-link:hover{
+	font-weight:bold;
+	color:#616A6B;
+}
+
+@media (max-width:575px) {
+	.jumbotron{
+		background-position:0px -100px;
+	}
+}
+
+@media (max-width:768px) {
+	.jumbotron{
+		background-position:-100px 0px;
+	}
+}
+
+@media (max-width:992px) {
+	.jumbotron{
+		background-position:-50px 0px;
+	}
+}
+
+@media (max-width:1200px) {
+	.jumbotron{
+		background-position:0px 0px;
+	}
+}
+
+.navbar-dark .navbar-toggler {
+	border-color:#616A6B;
+}
+
+.navbar-dark .navbar-toggler-icon {
+	color:#616A6B !important;
+}
