@@ -1,8 +1,9 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'PT Sans', sans-serif;;
   max-width: 70rem;
   margin-left: 10px;
   margin-right: 1opx;
+  background-color:#FFF0D8;
 }
 
 header {
@@ -10,7 +11,7 @@ header {
   font-size: 18px;
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-left: 10%;
+  padding-left: 5%;
   padding-right: 10%;
   margin-bottom: 15px;
 }
@@ -27,8 +28,7 @@ img {
 }
 
 h1 {
-  font-style: bold;
-  font-size: 40px;
+  font-size: 25px;
 }
 
 h2 {
@@ -46,4 +46,14 @@ p {
   margin-right: auto;
   margin-top: 30px;
   margin-bottom: 30px;
+}
+
+.list{
+  color:#4682B4;
+  text-decoration:none;
+}
+
+.list:hover{
+  color:#2E939E;
+  text-decoration:underline;
 }
